@@ -21,6 +21,7 @@ Visit the jilleJr/Newtonsoft.Json-for-Unity/wiki for installation
 ## Changelog
 
 Please see the [CHANGELOG.md][package-changelog] file inside this package.
+Please see the [CHANGELOG.md][package-changelog] file inside this package.
 
 ---
 
@@ -30,12 +31,19 @@ Copyright (c) 2019 Kalle Fagerberg (jilleJr)
 <https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters>
 
 See full copyrights in [LICENSE.md][package-license] inside repository
+See full copyrights in [LICENSE.md][package-license] inside repository
 
+[main-repo]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity#readme
+[repo-compatability-table]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters/blob/master/Doc/Compatability-table.md
+[package-changelog]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters/blob/master/CHANGELOG.md
+[package-license]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters/blob/master/LICENSE.md
 [main-repo]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity#readme
 [repo-compatability-table]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters/blob/master/Doc/Compatability-table.md
 [package-changelog]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters/blob/master/CHANGELOG.md
 [package-license]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters/blob/master/LICENSE.md
 [wiki-install-converters-via-git-in-upm]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity/wiki/Install-Converters-via-Git-in-UPM
 [wiki-install-converters-via-openupm]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity/wiki/Install-Converters-via-OpenUPM
+[wiki-install-converters-via-upm]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity/wiki/Install-Converters-via-UPM
+[openupm-icon]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters/raw/326b8e4c9b4fd9c583808dd1c66381ed8d206b1c/Doc/images/openupm-icon-16.png
 [wiki-install-converters-via-upm]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity/wiki/Install-Converters-via-UPM
 [openupm-icon]: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.Converters/raw/326b8e4c9b4fd9c583808dd1c66381ed8d206b1c/Doc/images/openupm-icon-16.png
