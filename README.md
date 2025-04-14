@@ -16,7 +16,7 @@ Add via Add Package By Name "com.unity.nuget.newtonsoft-json"
 
 Visit the jilleJr/Newtonsoft.Json-for-Unity/wiki for installation
 
-- [Installation via UPM: add via git url to this repo
+- Installation via UPM: add via git url to this repo
 
 ## Changelog
 
